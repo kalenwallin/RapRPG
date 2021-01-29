@@ -1,0 +1,27 @@
+{
+  "name": "rapbot",
+  "version": "1.0.0",
+  "description": "An RPG game that is themed to 2010-2020 hip hop.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./src/index.js",
+    "dev": "nodemon ./src/index.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "rap",
+    "rpg",
+    "rpg",
+    "game"
+  ],
+  "author": "Kalen Wallin \\ <kalenwallin@gmail.com\\> (https://www.kalenwallin.com)",
+  "license": "ISC",
+  "dependencies": {
+    "discord-leveling": "^1.1.0",
+    "discord.js": "^12.5.1",
+    "sequelize": "^6.3.5",
+    "sqlite3": "^5.0.1"
+  }
+}

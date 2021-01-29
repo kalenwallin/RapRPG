@@ -1,0 +1,5 @@
+npm run start
+to start bot
+
+npm run dev
+to start debugging session

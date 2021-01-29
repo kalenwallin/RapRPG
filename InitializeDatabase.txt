@@ -1,0 +1,5 @@
+Execute node dbInit.js to create the database tables. 
+Unless you make a change to the models, you'll never need to touch the file again. 
+If you do make a change to a model, 
+you can execute node dbInit.js --force or node dbInit.js -f to force sync your tables. 
+It's important to note that this will empty out and remake your model tables.
