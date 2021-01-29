@@ -401,6 +401,7 @@ The proper usage would be: \`rap release [single or album]\``);
             \`release\`-**${getCooldownTime('release')}**
             \`concert\`-**${getCooldownTime('concert')}**
             \`marketing\`-**${getCooldownTime('marketing')}**
+            \`daily\`**${getCooldownTime('daily')}**
             `)
 
         return message.channel.send(exampleEmbed);
