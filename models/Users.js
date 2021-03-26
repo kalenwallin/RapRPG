@@ -41,7 +41,7 @@ module.exports = (sequelize, DataTypes) => {
         },
         tierBalance: {
             type: DataTypes.INTEGER,
-            defaultValue: 0,
+            defaultValue: 1,
             allowNull: false,
             min: 1,
             max: 7,
