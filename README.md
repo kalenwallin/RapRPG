@@ -78,3 +78,7 @@ After adding the RapRPG Bot to your Discord server, you can run the following co
 
 ## Contributing
 Pull requests are more than welcome. Feel free to contribute or fork the project for your own needs.
+
+## Special Thanks to Lume and Nathan Kolbas
+- Nathan Kolbas inspired me to document my bot
+- Lume inspired me to make this bot
