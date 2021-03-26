@@ -1,4 +1,4 @@
-# RapRPG Bot                      ![visitors](https://visitor-badge.glitch.me/badge?page_id=kalenwallin/RapRPG) 
+# RapRPG Bot                         ![visitors](https://visitor-badge.glitch.me/badge?page_id=kalenwallin/RapRPG) 
 <img align="right" src="https://raw.githubusercontent.com/kalenwallin/RapRPG/master/logos/RapRPG.png" width=45% height=45%>
 
 ## About
@@ -40,7 +40,7 @@ After adding the RapRPG Bot to your Discord server, you can run the following co
   - `rap club`
     - Hit the club to gain xp and fans, *but you have to spend some money*
     - 15 minute cooldown
-  - `rap iglive
+  - `rap iglive`
     - Go on instagram live to let people know about your new merch, share some snippets, or just to chill. 
     - You will get xp, money, and fans.
     - 1 hour cooldown
