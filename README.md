@@ -77,4 +77,4 @@ After adding the RapRPG Bot to your Discord server, you can run the following co
     - Aliases: `rank`
 
 ## Contributing
-Pull request are more than welcome. Feel free to contribute or fork the project for your own needs.
+Pull requests are more than welcome. Feel free to contribute or fork the project for your own needs.
