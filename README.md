@@ -1,7 +1,7 @@
-# RapRPG Bot
+# RapRPG Bot <img align="right" src="https://raw.githubusercontent.com/kalenwallin/RapRPG/master/logos/RapRPG.png" width=45% height=45%>
 
 ## About
-The RapRPG Bot was developed by Kalen Wallin and is currently in development. It is used for as a game to play for fun. RapRPG bot is based off of [Epic RPG Bot] by Lume.
+The RapRPG Bot was made by Kalen Wallin and is currently in development. It is used for as a game to play for fun. RapRPG bot is based off of [Epic RPG Bot] by Lume.
 
 ## Purpose
 The purpose of this game is to become the greatest rapper of all time. You can achieve this dream by earning a lot of money, xp, fans, and clout tokens, by buying the coolest chains, and beating other rappers in rap battles to climb the rapper tiers.
