@@ -1,5 +1,5 @@
 # RapRPG Bot <img align="right" src="https://raw.githubusercontent.com/kalenwallin/RapRPG/master/logos/RapRPG.png" width=45% height=45%>
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=kalenwallin/RapRPG)
 ## About
 The RapRPG Bot was made by Kalen Wallin and is currently in development. It is used for as a game to play for fun. RapRPG bot is based off of [Epic RPG Bot] by Lume.
 
@@ -82,4 +82,3 @@ Pull requests are more than welcome. Feel free to contribute or fork the project
 ## Special Thanks to Lume and Nathan Kolbas
 - Nathan Kolbas inspired me to document my bot
 - Lume inspired me to make this bot
-![visitors](https://visitor-badge.glitch.me/badge?page_id=kalenwallin/RapRPG)
