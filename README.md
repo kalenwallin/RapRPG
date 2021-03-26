@@ -82,3 +82,4 @@ Pull requests are more than welcome. Feel free to contribute or fork the project
 ## Special Thanks to Lume and Nathan Kolbas
 - Nathan Kolbas inspired me to document my bot
 - Lume inspired me to make this bot
+- ![Visitor Count](https://profile-counter.glitch.me/{kalenwallin}/count.svg)
