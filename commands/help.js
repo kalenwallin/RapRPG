@@ -18,7 +18,7 @@ module.exports = {
                 .setThumbnail('https://i.imgur.com/N3ureic.png')
                 .addField('Progress Commands', '\`battle\`, \`practice\`, \`club\`, \`iglive\`, \`concert\`')
                 .addField('Shop Commands', '\`shop\`, \`buy\`')
-                .addField('Stat Commands', '\`profile\`')
+                .addField('Player Commands', '\`profile\`, \`inventory\`')
                 .addField('Commands Unlocked at higher levels', '\`release\`, \`sign\`, \`marketing\`')
                 .setTimestamp()
 

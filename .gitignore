@@ -1,3 +1,4 @@
 
 *.sqlite
 database.sqlite
+config.json
