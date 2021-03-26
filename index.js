@@ -398,9 +398,9 @@ The proper usage would be: \`rap release [single or album]\``);
             .addField('rap cd', `\`battle\`-**${getCooldownTime('battle')}**
             \`practice\`-**${getCooldownTime('practice')}**
             \`club\`-**${getCooldownTime('club')}**
-            \`IGLive\`-**${getCooldownTime('iglive')}**
-            \`release\`-**${getCooldownTime('release')}**
+            \`iglive\`-**${getCooldownTime('iglive')}**
             \`concert\`-**${getCooldownTime('concert')}**
+            \`release\`-**${getCooldownTime('release')}**
             \`marketing\`-**${getCooldownTime('marketing')}**
             \`daily\`**${getCooldownTime('daily')}**
             `)

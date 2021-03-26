@@ -2,10 +2,10 @@ const Discord = require('discord.js');
 
 module.exports = {
 	name: 'start',
-	description: 'Shows a welcoming message and basic commands to get the user started with RapRPG',
+	description: 'Shows a welcoming message and basic commands to you started with RapRPG',
 	usage: '',
 	aliases: ['start'],
-	cooldown: 1000,
+	cooldown: 0,
 	execute(message) {
 		const exampleEmbed = new Discord.MessageEmbed()
 			.setColor('#0099ff')

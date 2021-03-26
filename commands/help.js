@@ -3,9 +3,9 @@ const { prefix } = require("../config.json");
 
 module.exports = {
     name: 'help',
-    description: 'Shows additional help about RapRPG and how to get help on specific commands.',
+    description: 'Shows help about RapRPG and how to get help on specific commands.',
     usage: '<command>',
-    aliases: ['h', 'commands'],
+    aliases: ['help', 'h', 'commands'],
     cooldown: 1,
     execute(message, args) {
         const { commands } = message.client;
